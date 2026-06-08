@@ -11,7 +11,7 @@ This project focuses on building a machine learning model to predict the **risk 
 - Perform **exploratory data analysis (EDA)** to understand accident patterns  
 - Build and evaluate **machine learning models** for risk prediction  
 - Identify **key contributing factors** influencing accident probability  
-- Optimize model performance using feature engineering and tuning 
+- Optimise model performance using feature engineering and tuning 
 
 ---
 
@@ -19,6 +19,6 @@ This project focuses on building a machine learning model to predict the **risk 
 - **Programming Language**: Python  
 - **Libraries**:
   - Pandas, NumPy – Data processing  
-  - Matplotlib, Seaborn – Visualization  
+  - Matplotlib, Seaborn – Visualisation  
   - Scikit-learn – ML models & evaluation  
   - XGBoost – Advanced modelling  
