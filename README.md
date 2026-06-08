@@ -3,6 +3,7 @@
 
 ## 📌 Overview
 This project focuses on building a machine learning model to predict the **risk of road accidents** using a structured dataset from the Kaggle Playground competition:  
+
 **"Predicting Road Accident Risk"**.
 
 ---
@@ -12,6 +13,20 @@ This project focuses on building a machine learning model to predict the **risk 
 - Build and evaluate **machine learning models** for risk prediction  
 - Identify **key contributing factors** influencing accident probability  
 - Optimise model performance using feature engineering and tuning 
+
+---
+
+## 📊 Dataset
+- Source: Kaggle Playground Competition  
+- Dataset: *Predicting Road Accident Risk*  
+- Contains features related to:
+  - Weather conditions  
+  - Road characteristics  
+  - Traffic conditions  
+  - Time and environmental factors  
+
+> Note: Dataset is not included in this repo. You can download it from Kaggle:  
+> https://www.kaggle.com/
 
 ---
 
